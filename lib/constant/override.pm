@@ -210,7 +210,8 @@ L<http://search.cpan.org/dist/constant-override/>
 
 =head1 AUTHOR
 
- Tom Harrison, C<< <cpan at apnic.net> >>
+ Tom Harrison
+ APNIC Software, C<< <cpan at apnic.net> >>
 
 =head1 LICENSE AND COPYRIGHT
 

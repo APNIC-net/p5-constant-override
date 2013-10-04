@@ -1,0 +1,14 @@
+\B.hg\b
+.hgignore
+.hgtags
+.git
+.gitignore
+.*\.swp
+.*\.bak
+bin
+ext
+packaging
+blib
+cover_db
+pm_to_blib
+MANIFEST.SKIP
